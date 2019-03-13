@@ -1,2 +1,3 @@
 Initial Text
-Fist Commit | test-branch
+First Commit | test-branch
+Second Commit | merge branch
