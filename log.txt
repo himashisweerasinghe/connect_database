@@ -1,3 +1,4 @@
 Initial Text
 First Commit | test-branch
 Second Commit | merge branch
+Second Commit | Master
